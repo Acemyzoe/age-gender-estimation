@@ -1,7 +1,7 @@
 # Age and Gender Estimation
 
 This is a Keras implementation of a CNN for estimating age and gender from a face image [1, 2]. In training, [the IMDB-WIKI dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/) is used.  
-[**中文**](https://github.com/Acemyzoe/age-gender-estimation/edit/master/README_CN.md)  
+[**中文**](https://github.com/Acemyzoe/age-gender-estimation/blob/master/README_CN.md)  
 
 ## Dependencies
 
