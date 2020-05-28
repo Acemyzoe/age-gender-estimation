@@ -13,9 +13,7 @@ learn from yu4u : Keras implementation of a CNN network for age and gender estim
      > python train.py --input data/wiki_crop.mat  
    模型保存至checkpoints文件夹（如果验证损失比之前小，则按每个时期存储训练权重文件。 
    可选参数可以用--help显示或者参考源码。
-4. 绘制历史训练曲线 
-   > python plot_history.py --input models/history_16_8.h5
-5. [抛砖引玉](https://github.com/yu4u/age-gender-estimation.git)
+4. [抛砖引玉](https://github.com/yu4u/age-gender-estimation.git)
 ## 环境配置
   * ubuntu18.04+python3.7
   * 推荐使用Anaconda（一个提供包管理和环境管理的python版本）。  [官网下载](https://www.anaconda.com/distribution/)
