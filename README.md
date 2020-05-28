@@ -1,7 +1,7 @@
 # age-gender-estimation 年龄性别分析
 learn from yu4u : Keras implementation of a CNN network for age and gender estimation.  
 
-[**更详细的自述**](https://github.com/Acemyzoe/age-gender-estimation/blob/master/README_EN.md)
+[**更详细的自述**](https://github.com/Acemyzoe/age-gender-estimation/blob/master/README_EN.md)  
 **BY** [GJ](https://github.com/Acemyzoe/age-gender-estimation.git)
 
 ## 使用指南 
