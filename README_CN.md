@@ -6,7 +6,7 @@
 
 - Python3.7
 - Keras或tensorflow.kears
-- scipy，numpy，Pandas，tqdm，表格，h5py
+- scipy，numpy，Pandas，tqdm，tables，h5py
 - dlib（用于演示）
 - OpenCV的
 
